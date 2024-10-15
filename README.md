@@ -4,8 +4,8 @@
 
 <div align=""><br/>
   <a href="https://github.com/Licealex"></a>
-  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Licealex&show_icons=true&theme=jolly&count_private=true" />
-  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Licealex&langs_count=10&layout=compact&theme=jolly" />
+  <img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Licealex&show_icons=true&theme=jolly&count_private=true" />
+  <img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Licealex&langs_count=10&layout=compact&theme=jolly" />
 </div><br/>
 
 ## Tecnologias e Ferramentas 👩‍💻
