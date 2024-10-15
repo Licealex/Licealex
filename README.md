@@ -31,4 +31,4 @@ E essas são minhas ferramentas mais utilizadas:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-alexandra/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/licealex_/)
 
-![Snake animation](https://github.com/Licealex/Licealex/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Licealex/Licealex/blob/output/dist/github-contribution-grid-snake.svg)
